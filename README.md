@@ -1,6 +1,6 @@
-![imgs](https://github.com/user-attachments/assets/15f908de-d4ee-4bb4-a601-6f9ec5760f00)
+![1000038741](https://github.com/user-attachments/assets/8d14a0e4-89db-4764-8bcb-e3c5543c1673)
 # MS
 This is my first git repository
 <br>
 Author-> MAYANK SHARMA
-![img](https://github.com/user-attachments/assets/8526fec4-0845-4a78-8cb6-5b9cee10202e)
+
